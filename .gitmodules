@@ -4,3 +4,9 @@
 [submodule "esp8266-cmake"]
 	path = esp8266-cmake
 	url = https://github.com/westmere/esp8266-cmake.git
+[submodule "xtensa-lx106-elf"]
+	path = xtensa-lx106-elf
+	url = https://github.com/westmere/xtensa-lx106-elf.git
+[submodule "esptool"]
+	path = esptool
+	url = https://github.com/espressif/esptool.git
