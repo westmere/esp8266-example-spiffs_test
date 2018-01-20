@@ -1,4 +1,7 @@
 # esp8266-example-mqtt-demo
+
+git clone --recursive https://github.com/westmere/esp8266-example-mqtt-demo.git
+
 mkdir build
 
 cd build
